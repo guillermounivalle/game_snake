@@ -3,7 +3,7 @@ Game created as a test for Veevart
 
 # Instalación:
   Hacer Git Clone del proyecto usando el branch develop el cual contiene el código final.
-  Usar el comando npm install una vez se haya clonado el proyecto para instalar los módulos de Node necesarios para ejecutar la aplicación
+  Usar el comando "npm install" una vez se haya clonado el proyecto para instalar los módulos de Node necesarios para ejecutar la aplicación
  
 
 # Ejecutar
